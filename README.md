@@ -14,8 +14,8 @@ Built on years of experience from all previous generations of tools, it delivers
 
 ### 🌐 Available in Multiple Languages
 - 🇬🇧 English – this page  
-- 🇷🇺 Russian – [Telegram PRIME RU](https://github.com/Telegram-Prime/Telegram-Prime-RU)  
-- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/Telegram-Prime/telegram-prime-CN)
+- 🇷🇺 Russian – [Telegram PRIME RU](https://github.com/tg-prime/Telegram-Prime-RU)  
+- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/tg-prime/telegram-prime-CN)
 
 ### 🚀 Why Telegram Prime Stands Alone
 
@@ -35,18 +35,20 @@ Built on years of experience from all previous generations of tools, it delivers
 ### 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/17221e16-cfe9-43ad-ab72-4cf90ae200fc" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/47c718c1-f2bc-4324-b9cd-6798f4ff6d78" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/674d9c0b-122c-416a-8b62-dcc5b29ad03a" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/17221e16-cfe9-43ad-ab72-4cf90ae200fc" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/47c718c1-f2bc-4324-b9cd-6798f4ff6d78" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/674d9c0b-122c-416a-8b62-dcc5b29ad03a" width="180">
   <br>
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/0447bf35-b5fb-4867-bf5a-7fbe8f3984c1" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/39c3d410-4305-4e9c-ad65-9b310b85c723" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/c7cb9bd7-ba4b-43ef-8f0c-a7451268d7d4" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/0447bf35-b5fb-4867-bf5a-7fbe8f3984c1" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/39c3d410-4305-4e9c-ad65-9b310b85c723" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/c7cb9bd7-ba4b-43ef-8f0c-a7451268d7d4" width="180">
   <br>
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/4b318194-c4b3-4e4a-a33b-7c233549a32a" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/27982823-4e13-43a0-b1eb-304ef4e25562" width="180">
-  <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/f6cbb492-d039-4c9f-9b64-9872fb6fd857" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/4b318194-c4b3-4e4a-a33b-7c233549a32a" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/27982823-4e13-43a0-b1eb-304ef4e25562" width="180">
+  <img src="https://github.com/user-attachments/assets/94137664/f6cbb492-d039-4c9f-9b64-9872fb6fd857" width="180">
 </div>
+
+
 
 ### 🔥 Full Features List – 2025–2026 Edition
 
@@ -127,4 +129,4 @@ If Telegram Prime helps you earn – consider buying us a coffee 😄
 Let’s grow faster – together.
 
 ---
-**Start today →** [Download Latest Version](https://github.com/telegram-prime/Telegram-Prime/releases/latest)
+**Start today →** [Download Latest Version](https://github.com/tg-prime/Telegram-Prime/releases/latest)
