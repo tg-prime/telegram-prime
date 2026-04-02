@@ -1,6 +1,6 @@
 # Telegram PRIME  
 **The Ultimate Tool for Telegram Promotion & Monetization**  
-*(formerly Telegram Gods / Telegram Soft)*
+`(formerly Telegram Gods / Telegram Soft)`
 
 **Modern. Powerful. Always Up-to-Date.**
 
@@ -34,20 +34,22 @@ Built on years of experience from all previous generations of tools, it delivers
 
 ### 📸 Screenshots
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/94137664/17221e16-cfe9-43ad-ab72-4cf90ae200fc" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/47c718c1-f2bc-4324-b9cd-6798f4ff6d78" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/674d9c0b-122c-416a-8b62-dcc5b29ad03a" width="180">
-  <br>
-  <img src="https://github.com/user-attachments/assets/94137664/0447bf35-b5fb-4867-bf5a-7fbe8f3984c1" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/39c3d410-4305-4e9c-ad65-9b310b85c723" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/c7cb9bd7-ba4b-43ef-8f0c-a7451268d7d4" width="180">
-  <br>
-  <img src="https://github.com/user-attachments/assets/94137664/4b318194-c4b3-4e4a-a33b-7c233549a32a" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/27982823-4e13-43a0-b1eb-304ef4e25562" width="180">
-  <img src="https://github.com/user-attachments/assets/94137664/f6cbb492-d039-4c9f-9b64-9872fb6fd857" width="180">
-</div>
-
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/40215c3d-12cd-49b3-97f8-fb1a61437908" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/4ff50458-514b-4595-a45d-92cbb87fa9dc" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/c85d2214-8444-4d78-9e70-a2f4b8307a95" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/54dc9ba8-1660-4bc4-9ea4-abe7408a66f4" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/df655d8e-6aca-411e-852d-6a592c3b0cfa" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/c7bb064b-00eb-4a94-ba9d-575fa2db237b" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/829a448c-9d36-47ba-a3a5-04b177355b34" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/7f55d94d-365c-4c90-ac9f-1db2f19c803e" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/41f896b0-15ad-424e-9b63-a4520ab945b6" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/10003153-8b05-4ad3-bbb3-ffcdd6d1412b" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/f6ed2cb3-ab5d-471b-adcd-6939b6f77641" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/3acc18c2-43bd-4541-9110-37e9bf810ac8" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/ec9af8d9-743a-43ff-a91e-8d8950e671ca" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/1776b804-2c20-4c71-bfa2-bc271d4b23e6" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/6cdbe28c-2294-48cd-be77-9a9534792238" />
+<img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/905cd16c-50d3-4a9f-ae02-30408cb66dff" />
 
 
 ### 🔥 Full Features List – 2025–2026 Edition
@@ -130,3 +132,4 @@ Let’s grow faster – together.
 
 ---
 **Start today →** [Download Latest Version](https://github.com/tg-prime/Telegram-Prime/releases/latest)
+
