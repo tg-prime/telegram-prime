@@ -120,7 +120,6 @@ https://telegramprime.net/
 - Telegram: [Write message](https://telegramprime.net/telegram-contact)  
 - Discord: [Join & write](https://telegramprime.net/discord-contact)  
 - Element/Matrix: [Secure chat](https://telegramprime.net/element-contact)  
-- Twitter: [@TelegramGods](https://twitter.com/TelegramGods)
 
 ### ☕ Support the Project
 
