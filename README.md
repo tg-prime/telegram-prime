@@ -32,6 +32,14 @@ Built on years of experience from all previous generations of tools, it delivers
 🌐 Explore the full Telegram Prime interface right now in your browser:  
 [Open Interactive Web View Demo](https://webview.telegramprime.com/)
 
+---
+
+## 📥 Download
+
+- **Always Latest Release** – [Website](https://telegramprime.net/telegram-prime-first-time-installation/)
+
+---
+
 ### 📸 Screenshots
 
 <img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/40215c3d-12cd-49b3-97f8-fb1a61437908" />
