@@ -14,8 +14,8 @@ Telegram Prime 是 2025–2026 年最先进的 Telegram 多功能推广软件。
 
 ### 🌐 支持多语言版本
 - 🇨🇳 简体中文 – 本页面  
-- 🇬🇧 English – [Telegram PRIME EN](https://github.com/tg-prime/Telegram-Prime)  
-- 🇷🇺 Русский – [Telegram PRIME RU](https://github.com/tg-prime/Telegram-Prime-RU)
+- 🇬🇧 English – [Telegram PRIME EN](https://github.com/tg-prime/telegram-prime/blob/main/README.md)  
+- 🇷🇺 Русский – [Telegram PRIME RU](https://github.com/tg-prime/telegram-prime/blob/main/README_RU.md)
 
 ### 🚀 Telegram Prime 的核心优势
 
@@ -31,6 +31,14 @@ Telegram Prime 是 2025–2026 年最先进的 Telegram 多功能推广软件。
 ### 🖥️ 交互式界面在线预览
 🌐 直接在浏览器中体验完整的 Telegram Prime 界面：  
 [打开交互式 Web 演示](https://webview.telegramprime.com/)
+
+---
+
+## 📥 下载
+
+- **始终最新版** – [Website](https://telegramprime.net/telegram-prime-first-time-installation/)
+
+---
 
 ### 📸 界面截图
 
@@ -130,4 +138,4 @@ https://telegramprime.net/
 让我们一起更快成长！
 
 ---
-**立即开始 →** [下载最新版本](https://github.com/tg-prime/telegram-prime-cn/releases/latest)
+**立即开始 →** [下载最新版本](https://github.com/tg-prime/tg-prime/releases/latest)
