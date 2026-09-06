@@ -32,6 +32,14 @@ Telegram Prime — это передовое многофункциональн�
 🌐 Ознакомьтесь с полным интерфейсом Telegram Prime прямо в браузере:  
 [Открыть интерактивную веб-демо](https://webview.telegramprime.com/)
 
+---
+
+## 📥 Скачать
+
+- **Всегда свежая версия** – [Website](https://telegramprime.com/pervaya-ustanovka-telegram-prime-i-sistemnye-trebovaniya/)
+
+---
+
 ### 📸 Скриншоты
 
 <img width="180" alt="Telegram Prime" src="https://github.com/user-attachments/assets/40215c3d-12cd-49b3-97f8-fb1a61437908" />
