@@ -14,8 +14,8 @@ Telegram Prime — это передовое многофункциональн�
 
 ### 🌐 Доступно на нескольких языках
 - 🇷🇺 Русский – эта страница  
-- 🇬🇧 English – [Telegram PRIME EN](https://github.com/tg-prime/Telegram-Prime)  
-- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/tg-prime/telegram-prime-CN)
+- 🇬🇧 English – [Telegram PRIME EN](https://github.com/tg-prime/telegram-prime/blob/main/README.md)  
+- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/tg-prime/telegram-prime/blob/main/README_ZH.md)
 
 ### 🚀 Почему Telegram Prime вне конкуренции
 
@@ -130,4 +130,4 @@ https://telegramprime.com/
 Давайте расти быстрее — вместе.
 
 ---
-**Начать сегодня →** [Скачать последнюю версию](https://github.com/tg-prime/Telegram-Prime-RU/releases/latest)
+**Начать сегодня →** [Скачать последнюю версию](https://github.com/tg-prime/Telegram-Prime/releases/latest)
