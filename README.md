@@ -14,8 +14,8 @@ Built on years of experience from all previous generations of tools, it delivers
 
 ### 🌐 Available in Multiple Languages
 - 🇬🇧 English – this page  
-- 🇷🇺 Russian – [Telegram PRIME RU](https://github.com/tg-prime/Telegram-Prime-RU)  
-- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/tg-prime/telegram-prime-CN)
+- 🇷🇺 Russian – [Telegram PRIME RU](https://github.com/tg-prime/telegram-prime/blob/main/README_RU.md)  
+- 🇨🇳 Chinese – [Telegram PRIME CN](https://github.com/tg-prime/telegram-prime/blob/main/README_ZH.md)
 
 ### 🚀 Why Telegram Prime Stands Alone
 
